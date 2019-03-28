@@ -1,7 +1,7 @@
 ### Guide
 
 1. Log in to your system as the root user   
-    `ssh root@ip`
+    `ssh root@<ip>`
 
 2. Create a new user account   
     `adduser <username>`
