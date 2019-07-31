@@ -14,3 +14,7 @@ Deletion -> unlink {link-name}
             rm {link-name}
 
 View     -> ls -l {/path/to/file-name}
+
+#### notes
+
+sudo /etc/init.d/mysql start
