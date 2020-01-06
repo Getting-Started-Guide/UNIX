@@ -3,6 +3,10 @@
 
 
 #### ZIP-Archive
+create zip archive from current directory
+
+`zip -r BACKUP.zip .`
+
 create zip archive from multiple directories and files
 
 `zip -r BACKUP.zip folder1/files folder2/`
